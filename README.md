@@ -1,2 +1,2 @@
 # Optimization
-Optimization problems and ML/DL algorithms solved in Python
+Optimization problems and ML/DL algorithms
